@@ -1,0 +1,9 @@
+# Local generated or private image outputs
+*.tmp
+tmp/
+output/
+generated_images/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

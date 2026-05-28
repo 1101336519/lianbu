@@ -1,0 +1,4 @@
+interface:
+  display_name: "Face Three-View Colored Pencil"
+  short_description: "Create colored-pencil face three-view sheets."
+  default_prompt: "Use $lianbu to create front/three-quarter/profile colored-pencil face views from this model photo."
